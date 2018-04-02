@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE
+# Copyright (C) YEAR Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-04-02 22:17+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. in order to left align columns in multicol
+#.  Don't use page numbers
+#. type: Plain text
+#: esd_guide.tex:23
+msgid "\\AtBeginEnvironment{multicols}{\\RaggedRight}"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:32
+msgid "\\setmainfont{DejaVu Serif} \\fontsize{1.5cm}{0.9cm}"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:36
+msgid ""
+"\\fill [topblue] (0mm,0.5\\paperheight) rectangle "
+"(\\paperwidth+0.05cm,\\paperheight);"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:38
+msgid ""
+"\\fill [bottombrown] (0mm,0mm) rectangle "
+"(\\paperwidth+0.05cm,0.5\\paperheight);"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:40
+msgid ""
+"\\node [below, white] at (0.5\\paperwidth, \\paperheight-5mm)  {EMAIL "
+"SELF-DEFENSE};"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:42
+msgid "\\fontsize{0.65cm}{0.9cm}"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:46
+msgid ""
+"\\node [below, white, align=center, text width=0.95\\paperwidth] at "
+"(0.5\\paperwidth, \\paperheight-25mm)  {Bulk surveilence violates our "
+"fundamental rights and makes free speech risky};"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:48
+msgid ""
+"\\node [below, white, align=center, text width=0.95\\paperwidth, font=\\bf] "
+"at (0.5\\paperwidth, \\paperheight-45mm)  {But we are far from helpless to "
+"do something about it};"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:51
+msgid ""
+"\\node [below, inner sep=0,outer sep=0] at (0.5\\paperwidth, "
+"\\paperheight-60mm) "
+"{\\includegraphics[width=\\paperwidth]{leaflet-1_1.eps}}; "
+"\\fontsize{0.55cm}{0.6cm} \\selectfont"
+msgstr ""
+
+#. type: tikzpicture
+#: esd_guide.tex:61
+msgid ""
+"\\node [below, white, align=center, text width=0.95\\paperwidth, font=\\bf] "
+"at (0.5\\paperwidth, \\paperheight-225mm)  { \\begin{multicols}{3} The "
+"password protecting your email is only a thin layer of security that can't "
+"protect against the battering ram of sophisticated surveillance "
+"systems. \\par \\columnbreak Each message passes through many computer "
+"systems on the way to its destination. Surveillance agencies take advantage "
+"of this to read million and millions of emails. \\par \\columnbreak Even if "
+"you have nothing to hide, when you send normal email, the people you talk to "
+"are beingexposed as well.  \\end{multicols} };"
+msgstr ""
